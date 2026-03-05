@@ -1,0 +1,5 @@
+PS C:\Users\siddharth singh\Downloads\BITS_F364_Assignment3_Code> python app.py
+[a] Search completed in 6.57 seconds
+[b] lowest priced headphone completed in 2.92 seconds
+[c] highest rated headphone completed in 3.76 seconds
+[d] add to cart completed in 1.37 seconds

@@ -1,0 +1,12 @@
+PS C:\Users\siddharth singh\Downloads\BITS_F364_Assignment3_Code> python web.py
+
+DevTools listening on ws://127.0.0.1:50366/devtools/browser/e392299e-5830-45a5-8bcA-365dcb2f27c7
+[f] Home page load time: 3.14 seconds
+[a] Search time: 4.83 seconds
+[b] Sort by price time: 0.74 seconds
+Name: TECHNO LIME Ultrapods True Wireless Headphones with Digital Display, Black
+Price: ₹330
+[c] Sort by rating time: 0.17 seconds
+Name: Bluetooth Headphones Over Ear, 80H Playtime Wireless Headphone with 3 EQ Modes, Built-in Mic, Deep Bass, HiFi Stereo Foldable Wireless Headset for PC Travel Workout Office (Pink)
+Price: ₹12,358
+[d] adding to cart time: 0.51 seconds
